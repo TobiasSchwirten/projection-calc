@@ -1,0 +1,2 @@
+- Calculate useful values for your projector setup
+- generate testpattern
